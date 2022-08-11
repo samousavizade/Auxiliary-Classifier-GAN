@@ -1,0 +1,18 @@
+{
+    "os": "Linux-5.15.0-41-generic-x86_64-with-glibc2.31",
+    "python": "3.10.4",
+    "heartbeatAt": "2022-08-11T14:18:05.942331",
+    "startedAt": "2022-08-11T14:18:02.953601",
+    "docker": null,
+    "gpu": "NVIDIA GeForce GTX 1060 with Max-Q Design",
+    "gpu_count": 1,
+    "cpu_count": 12,
+    "cuda": null,
+    "args": null,
+    "state": "running",
+    "program": "code.ipynb",
+    "root": "/home/ahur4/Auxiliary-Classifier-GAN",
+    "host": "ahur4-OMEN-by-HP-Laptop",
+    "username": "ahur4",
+    "executable": "/home/ahur4/anaconda3/envs/data_env/bin/python"
+}
